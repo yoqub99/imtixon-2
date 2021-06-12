@@ -1363,6 +1363,9 @@ a {
   .grouppp {
     display: block;
   }
+  .main {
+    margin-left: 20px;
+  }
 }
 
 /*  MAIN END- */
