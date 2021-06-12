@@ -12,14 +12,14 @@
   width: 1440px;
   background: #fff;
   margin: 0 auto;
-  border: 1px solid white;
+  border: 1px solid #fff;
   margin-top: -50px;
 }
 
 .footer_menu {
   width: 1440px;
   height: 96px;
-  background: #333A44;
+  background: #333a44;
   margin-top: -1.2px;
 }
 
@@ -54,14 +54,14 @@
 .footer_li a {
   text-decoration: none;
   font-style: normal;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 15px;
   line-height: 25px;
-  color: #939CAA;
+  color: #939caa;
 }
 
 .footer_li a:hover {
-  color: #FCB72B;
+  color: #fcb72b;
 }
 
 .menu_link-img {
@@ -73,11 +73,11 @@
 }
 
 svg {
-  fill: #FCB72B;
+  fill: #fcb72b;
 }
 
 svg:hover {
-  fill: #E5ECF4;
+  fill: #e5ecf4;
 }
 
 /*FOOTER END*/
@@ -125,40 +125,40 @@ svg:hover {
 }
 
 .title_link {
-  font-family: "Space Mono", sans-serif;
+  font-family: "Space Mono",sans-serif;
   font-weight: 700;
   font-style: normal;
   font-size: 15px;
   line-height: 25px;
-  color: #939CAA;
+  color: #939caa;
   text-decoration: none;
   margin-right: 32px;
 }
 
 .title_link:hover {
-  color: #FCB72B;
+  color: #fcb72b;
 }
 
 .button {
   width: 180px;
   height: 53px;
-  font-family: "Space Mono", sans-serif;
+  font-family: "Space Mono",sans-serif;
   border: none;
-  color: #FFFFFF;
+  color: #fff;
   font-style: normal;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 15px;
   line-height: 25px;
   text-align: center;
-  background-color: #FCB72B;
-  color: #FFFFFF;
+  background-color: #fcb72b;
+  color: #fff;
 }
 
 .button:hover {
   width: 180px;
   height: 53px;
-  border: 3px solid #FCB72B;
-  color: #FCB72B;
+  border: 3px solid #fcb72b;
+  color: #fcb72b;
   background-color: #fff;
 }
 
@@ -184,11 +184,11 @@ svg:hover {
   width: 500px;
   height: 112 px;
   font-style: normal;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 56px;
   line-height: 56px;
   letter-spacing: -2.5px;
-  color: #FFFFFF;
+  color: #fff;
 }
 
 .list_p {
@@ -196,10 +196,10 @@ svg:hover {
   width: 405px;
   height: 100px;
   font-style: normal;
-  font-weight: normal;
+  font-weight: 400;
   font-size: 15px;
   line-height: 25px;
-  color: #FFFFFF;
+  color: #fff;
   margin-top: 40px;
   margin-bottom: 40px;
   margin-left: 100px;
@@ -246,7 +246,7 @@ svg:hover {
 .span1 {
   width: 974px;
   height: 15px;
-  background-color: #E5ECF4;
+  background-color: #e5ecf4;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -262,8 +262,8 @@ svg:hover {
 .span2 {
   width: 96px;
   height: 96px;
-  background: #FCB72B;
-  border: 2px solid  #FCB72B;
+  background: #fcb72b;
+  border: 2px solid #fcb72b;
   border-radius: 50%;
   margin-left: 165px;
   background-image: url(../img/CombinedShape1.svg);
@@ -275,8 +275,8 @@ svg:hover {
 .span3 {
   width: 96px;
   height: 96px;
-  background: #FCB72B;
-  border: 2px solid  #FCB72B;
+  background: #fcb72b;
+  border: 2px solid #fcb72b;
   border-radius: 50%;
   margin-left: 100px;
   background-image: url(../img/Shape2.svg);
@@ -288,8 +288,8 @@ svg:hover {
 .span4 {
   width: 96px;
   height: 96px;
-  background: #FCB72B;
-  border: 2px solid  #FCB72B;
+  background: #fcb72b;
+  border: 2px solid #fcb72b;
   border-radius: 50%;
   margin-left: 100px;
   background-image: url(../img/CombinedShape3.svg);
@@ -313,7 +313,7 @@ svg:hover {
   width: 350px;
   height: 28px;
   font-style: normal;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 24px;
   line-height: 28px;
   letter-spacing: -1.07143px;
@@ -324,10 +324,10 @@ svg:hover {
   width: 350px;
   height: 100px;
   font-style: normal;
-  font-weight: normal;
+  font-weight: 400;
   font-size: 15px;
   line-height: 25px;
-  color: #939CAA;
+  color: #939caa;
   margin-right: 30px;
 }
 
@@ -354,7 +354,7 @@ svg:hover {
   width: 445px;
   height: 96px;
   font-style: normal;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 48px;
   line-height: 48px;
   letter-spacing: -2.14286px;
@@ -380,10 +380,10 @@ svg:hover {
   width: 445px;
   height: 100px;
   font-style: normal;
-  font-weight: normal;
+  font-weight: 400;
   font-size: 15px;
   line-height: 25px;
-  color: #939CAA;
+  color: #939caa;
   margin-bottom: 40px;
 }
 
@@ -431,7 +431,7 @@ svg:hover {
   width: 445px;
   height: 96px;
   font-style: normal;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 48px;
   line-height: 48px;
   letter-spacing: -2.14286px;
@@ -443,10 +443,10 @@ svg:hover {
   width: 445px;
   height: 100px;
   font-style: normal;
-  font-weight: normal;
+  font-weight: 400;
   font-size: 15px;
   line-height: 25px;
-  color: #939CAA;
+  color: #939caa;
   margin-bottom: 40px;
 }
 
@@ -511,7 +511,7 @@ svg:hover {
   width: 445px;
   height: 96px;
   font-style: normal;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 48px;
   line-height: 48px;
   letter-spacing: -2.14286px;
@@ -537,10 +537,10 @@ svg:hover {
   width: 445px;
   height: 100px;
   font-style: normal;
-  font-weight: normal;
+  font-weight: 400;
   font-size: 15px;
   line-height: 25px;
-  color: #939CAA;
+  color: #939caa;
   margin-bottom: 40px;
 }
 
@@ -577,11 +577,11 @@ svg:hover {
   margin-top: 102px;
   margin-bottom: 102px;
   font-style: normal;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 48px;
   line-height: 48px;
   letter-spacing: -2.14286px;
-  color: #FFFFFF;
+  color: #fff;
 }
 
 .sidebar_inner {
@@ -594,7 +594,7 @@ svg:hover {
 .box1 {
   width: 159px;
   height: 56px;
-  background: #E5ECF4;
+  background: #e5ecf4;
   border-radius: 4px;
   margin-right: 18px;
 }
@@ -603,10 +603,10 @@ svg:hover {
   width: 92px;
   height: 15px;
   font-style: normal;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 10px;
   line-height: 15px;
-  letter-spacing: -0.446429px;
+  letter-spacing: -.446429px;
   color: #495567;
   margin-left: 52px;
   margin-top: 8px;
@@ -617,10 +617,10 @@ svg:hover {
   width: 92px;
   height: 24px;
   font-style: normal;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 20px;
   line-height: 24px;
-  letter-spacing: -0.892857px;
+  letter-spacing: -.892857px;
   color: #495567;
   margin-left: 52px;
   margin-bottom: 9px;
@@ -642,7 +642,7 @@ svg:hover {
 .box2 {
   width: 159px;
   height: 56px;
-  background: #E5ECF4;
+  background: #e5ecf4;
   border-radius: 4px;
 }
 
@@ -650,10 +650,10 @@ svg:hover {
   width: 92px;
   height: 15px;
   font-style: normal;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 10px;
   line-height: 15px;
-  letter-spacing: -0.446429px;
+  letter-spacing: -.446429px;
   color: #495567;
   margin-left: 52px;
   margin-top: 8px;
@@ -664,10 +664,10 @@ svg:hover {
   width: 92px;
   height: 24px;
   font-style: normal;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 20px;
   line-height: 24px;
-  letter-spacing: -0.892857px;
+  letter-spacing: -.892857px;
   color: #495567;
   margin-left: 52px;
   margin-bottom: 9px;
@@ -689,9 +689,7 @@ svg:hover {
 /*  MAIN END- */
 /*GENERELA END */
 /* MAIN  STARTED */
-*,
-*::after,
-*::before {
+*, ::after, ::before {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   margin: 0;
@@ -699,18 +697,18 @@ svg:hover {
 }
 
 body {
-  background-color: #E5ECF4;
-  font-family: "Space Mono", sans-serif;
+  background-color: #e5ecf4;
+  font-family: "Space Mono",sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Space Mono", sans-serif;
+  font-family: "Space Mono",sans-serif;
   font-weight: 700;
   font-style: normal;
 }
 
 p {
-  font-family: "Lexend Deca", sans-serif;
+  font-family: "Lexend Deca",sans-serif;
   font-weight: 400;
   font-style: normal;
 }
@@ -720,9 +718,7 @@ a {
 }
 
 @media only screen and (max-width: 768px) {
-  *,
-  *::after,
-  *::before {
+  *, ::after, ::before {
     -webkit-box-sizing: border-box;
             box-sizing: border-box;
     margin: 0;
@@ -730,15 +726,15 @@ a {
   }
   body {
     background-color: #fff;
-    font-family: "Space Mono", sans-serif;
+    font-family: "Space Mono",sans-serif;
   }
   h1, h2, h3, h4, h5, h6 {
-    font-family: "Space Mono", sans-serif;
+    font-family: "Space Mono",sans-serif;
     font-weight: 700;
     font-style: normal;
   }
   p {
-    font-family: "Lexend Deca", sans-serif;
+    font-family: "Lexend Deca",sans-serif;
     font-weight: 400;
     font-style: normal;
   }
@@ -793,16 +789,16 @@ a {
     margin-left: 58px;
   }
   .title_link {
-    font-family: "Space Mono", sans-serif;
+    font-family: "Space Mono",sans-serif;
     font-style: normal;
-    font-weight: bold;
+    font-weight: 700;
     font-size: 15px;
     line-height: 25px;
-    color: #939CAA;
+    color: #939caa;
     margin-right: 32px;
   }
   .title_link:hover {
-    color: #FCB72B;
+    color: #fcb72b;
   }
   .button_link {
     margin-left: 130px;
@@ -810,22 +806,22 @@ a {
   .button {
     width: 180px;
     height: 53px;
-    font-family: "Space Mono", sans-serif;
+    font-family: "Space Mono",sans-serif;
     border: none;
-    color: #FFFFFF;
+    color: #fff;
     font-style: normal;
-    font-weight: bold;
+    font-weight: 700;
     font-size: 15px;
     line-height: 25px;
     text-align: center;
-    background-color: #FCB72B;
-    color: #FFFFFF;
+    background-color: #fcb72b;
+    color: #fff;
   }
   .button:hover {
     width: 180px;
     height: 53px;
-    border: 3px solid #FCB72B;
-    color: #FCB72B;
+    border: 3px solid #fcb72b;
+    color: #fcb72b;
     background-color: #fff;
   }
   .header_img {
@@ -849,12 +845,12 @@ a {
     width: 573px;
     height: 112 px;
     font-style: normal;
-    font-weight: bold;
+    font-weight: 700;
     font-size: 56px;
     line-height: 56px;
     text-align: center;
     letter-spacing: -2.5px;
-    color: #FFFFFF;
+    color: #fff;
     margin-left: -60px;
   }
   .list_p {
@@ -862,11 +858,11 @@ a {
     width: 573px;
     height: 75px;
     font-style: normal;
-    font-weight: normal;
+    font-weight: 400;
     font-size: 15px;
     line-height: 25px;
     text-align: center;
-    color: #FFFFFF;
+    color: #fff;
     margin-top: 24px;
     margin-bottom: 32px;
     margin-left: -50px;
@@ -896,7 +892,7 @@ a {
     z-index: 0;
     width: 974px;
     height: 15px;
-    background-color: #E5ECF4;
+    background-color: #e5ecf4;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -914,8 +910,8 @@ a {
   .span2 {
     width: 96px;
     height: 96px;
-    background: #FCB72B;
-    border: 2px solid  #FCB72B;
+    background: #fcb72b;
+    border: 2px solid #fcb72b;
     border-radius: 50%;
     margin-left: 465px;
     background-image: url(../img/CombinedShape1.svg);
@@ -928,8 +924,8 @@ a {
   .span3 {
     width: 96px;
     height: 96px;
-    background: #FCB72B;
-    border: 2px solid  #FCB72B;
+    background: #fcb72b;
+    border: 2px solid #fcb72b;
     border-radius: 50%;
     margin-left: 150px;
     background-image: url(../img/Shape2.svg);
@@ -942,8 +938,8 @@ a {
   .span4 {
     width: 96px;
     height: 96px;
-    background: #FCB72B;
-    border: 2px solid  #FCB72B;
+    background: #fcb72b;
+    border: 2px solid #fcb72b;
     border-radius: 50%;
     margin-left: 100px;
     background-image: url(../img/CombinedShape3.svg);
@@ -968,7 +964,7 @@ a {
     width: 398px;
     height: 28px;
     font-style: normal;
-    font-weight: bold;
+    font-weight: 700;
     font-size: 24px;
     line-height: 28px;
     letter-spacing: -1.07143px;
@@ -979,10 +975,10 @@ a {
     width: 398px;
     height: 75px;
     font-style: normal;
-    font-weight: normal;
+    font-weight: 400;
     font-size: 15px;
     line-height: 25px;
-    color: #939CAA;
+    color: #939caa;
     margin-right: 30px;
     margin-bottom: 40px;
   }
@@ -1008,7 +1004,7 @@ a {
     width: 445px;
     height: 96px;
     font-style: normal;
-    font-weight: bold;
+    font-weight: 700;
     font-size: 48px;
     line-height: 48px;
     text-align: center;
@@ -1035,11 +1031,11 @@ a {
     width: 573px;
     height: 75px;
     font-style: normal;
-    font-weight: normal;
+    font-weight: 400;
     font-size: 15px;
     line-height: 25px;
     text-align: center;
-    color: #939CAA;
+    color: #939caa;
     margin-left: -80px;
     margin-bottom: 40px;
   }
@@ -1086,7 +1082,7 @@ a {
     width: 563px;
     height: 96px;
     font-style: normal;
-    font-weight: bold;
+    font-weight: 700;
     font-size: 48px;
     line-height: 48px;
     text-align: center;
@@ -1099,11 +1095,11 @@ a {
     width: 573px;
     height: 75px;
     font-style: normal;
-    font-weight: normal;
+    font-weight: 400;
     font-size: 15px;
     line-height: 25px;
     text-align: center;
-    color: #939CAA;
+    color: #939caa;
     margin-bottom: 40px;
     margin-left: -120px;
   }
@@ -1200,7 +1196,7 @@ a {
     width: 457px;
     height: 96px;
     font-style: normal;
-    font-weight: bold;
+    font-weight: 700;
     font-size: 48px;
     line-height: 48px;
     text-align: center;
@@ -1226,11 +1222,11 @@ a {
     width: 573px;
     height: 73px;
     font-style: normal;
-    font-weight: normal;
+    font-weight: 400;
     font-size: 15px;
     line-height: 25px;
     text-align: center;
-    color: #939CAA;
+    color: #939caa;
     margin-bottom: 40px;
     margin-left: -80px;
   }
@@ -1254,13 +1250,13 @@ a {
     width: 768px;
     background: #fff;
     margin: 0 auto;
-    border: 1px solid white;
+    border: 1px solid #fff;
     margin-top: 1100px;
   }
   .footer_menu {
     width: 768px;
     height: 96px;
-    background: #333A44;
+    background: #333a44;
     margin-top: 100px;
     margin-bottom: 350px;
   }
@@ -1290,13 +1286,13 @@ a {
   .footer_li a {
     text-decoration: none;
     font-style: normal;
-    font-weight: bold;
+    font-weight: 700;
     font-size: 15px;
     line-height: 25px;
-    color: #939CAA;
+    color: #939caa;
   }
   .footer_li a:hover {
-    color: #FCB72B;
+    color: #fcb72b;
   }
   .menu_link-img {
     margin-left: 153px;
@@ -1311,33 +1307,31 @@ a {
     margin-right: 24px;
   }
   svg {
-    fill: #FCB72B;
+    fill: #fcb72b;
   }
   svg:hover {
-    fill: #E5ECF4;
+    fill: #e5ecf4;
   }
 }
 
 @media only screen and (max-width: 450px) {
-  *,
-  *::after,
-  *::before {
+  *, ::after, ::before {
     -webkit-box-sizing: border-box;
             box-sizing: border-box;
     margin: 0;
     padding: 0;
   }
   body {
-    background-color: #E5ECF4;
-    font-family: "Space Mono", sans-serif;
+    background-color: #e5ecf4;
+    font-family: "Space Mono",sans-serif;
   }
   h1, h2, h3, h4, h5, h6 {
-    font-family: "Space Mono", sans-serif;
+    font-family: "Space Mono",sans-serif;
     font-weight: 700;
     font-style: normal;
   }
   p {
-    font-family: "Lexend Deca", sans-serif;
+    font-family: "Lexend Deca",sans-serif;
     font-weight: 400;
     font-style: normal;
   }
@@ -1355,7 +1349,7 @@ a {
   .contener {
     width: 327px;
     margin: 0 auto;
-    border: 1px solid white;
+    border: 1px solid #fff;
   }
   .nav_menu {
     display: none;
