@@ -111,7 +111,7 @@ svg:hover {
 }
 
 .nav_menu {
-  margin-right: 410px;
+  margin-right: 200px;
 }
 
 .menu_title {
@@ -125,7 +125,7 @@ svg:hover {
 }
 
 .title_link {
-  font-family: "Space Mono",sans-serif;
+  font-family: "Space Mono", sans-serif;
   font-weight: 700;
   font-style: normal;
   font-size: 15px;
@@ -142,7 +142,7 @@ svg:hover {
 .button {
   width: 180px;
   height: 53px;
-  font-family: "Space Mono",sans-serif;
+  font-family: "Space Mono", sans-serif;
   border: none;
   color: #fff;
   font-style: normal;
@@ -689,7 +689,9 @@ svg:hover {
 /*  MAIN END- */
 /*GENERELA END */
 /* MAIN  STARTED */
-*, ::after, ::before {
+*,
+::after,
+::before {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   margin: 0;
@@ -698,17 +700,22 @@ svg:hover {
 
 body {
   background-color: #e5ecf4;
-  font-family: "Space Mono",sans-serif;
+  font-family: "Space Mono", sans-serif;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Space Mono",sans-serif;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Space Mono", sans-serif;
   font-weight: 700;
   font-style: normal;
 }
 
 p {
-  font-family: "Lexend Deca",sans-serif;
+  font-family: "Lexend Deca", sans-serif;
   font-weight: 400;
   font-style: normal;
 }
@@ -718,7 +725,9 @@ a {
 }
 
 @media only screen and (max-width: 768px) {
-  *, ::after, ::before {
+  *,
+  ::after,
+  ::before {
     -webkit-box-sizing: border-box;
             box-sizing: border-box;
     margin: 0;
@@ -726,15 +735,20 @@ a {
   }
   body {
     background-color: #fff;
-    font-family: "Space Mono",sans-serif;
+    font-family: "Space Mono", sans-serif;
   }
-  h1, h2, h3, h4, h5, h6 {
-    font-family: "Space Mono",sans-serif;
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: "Space Mono", sans-serif;
     font-weight: 700;
     font-style: normal;
   }
   p {
-    font-family: "Lexend Deca",sans-serif;
+    font-family: "Lexend Deca", sans-serif;
     font-weight: 400;
     font-style: normal;
   }
@@ -789,7 +803,7 @@ a {
     margin-left: 58px;
   }
   .title_link {
-    font-family: "Space Mono",sans-serif;
+    font-family: "Space Mono", sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 15px;
@@ -806,7 +820,7 @@ a {
   .button {
     width: 180px;
     height: 53px;
-    font-family: "Space Mono",sans-serif;
+    font-family: "Space Mono", sans-serif;
     border: none;
     color: #fff;
     font-style: normal;
@@ -1315,7 +1329,9 @@ a {
 }
 
 @media only screen and (max-width: 450px) {
-  *, ::after, ::before {
+  *,
+  ::after,
+  ::before {
     -webkit-box-sizing: border-box;
             box-sizing: border-box;
     margin: 0;
@@ -1323,15 +1339,20 @@ a {
   }
   body {
     background-color: #e5ecf4;
-    font-family: "Space Mono",sans-serif;
+    font-family: "Space Mono", sans-serif;
   }
-  h1, h2, h3, h4, h5, h6 {
-    font-family: "Space Mono",sans-serif;
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: "Space Mono", sans-serif;
     font-weight: 700;
     font-style: normal;
   }
   p {
-    font-family: "Lexend Deca",sans-serif;
+    font-family: "Lexend Deca", sans-serif;
     font-weight: 400;
     font-style: normal;
   }

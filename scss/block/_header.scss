@@ -1,3 +1,130 @@
 /* HEADER STARTED */
-.header{width:1440px;height:806px;margin:0 auto;background-color:#fff;border:1px solid #fff}.main{width:1440px;background:#fff;margin:0 auto;border:1px solid #fff}.menu{display:flex;align-items:center;justify-content:space-between;padding:34px 167px}.nav_menu{margin-right:410px}.menu_title{display:flex;align-items:center;list-style-type:none}.title_link{font-family:"Space Mono",sans-serif;font-weight:700;font-style:normal;font-size:15px;line-height:25px;color:#939caa;text-decoration:none;margin-right:32px}.title_link:hover{color:#fcb72b}.button{width:180px;height:53px;font-family:"Space Mono",sans-serif;border:none;color:#fff;font-style:normal;font-weight:700;font-size:15px;line-height:25px;text-align:center;background-color:#fcb72b;color:#fff}.button:hover{width:180px;height:53px;border:3px solid #fcb72b;color:#fcb72b;background-color:#fff}.header_img{position:relative;width:1440px;height:650px;background-image:url(../img/Bitmap2.png);background-repeat:no-repeat;background-size:contain}.img_list{width:180px;height:53px;position:absolute;top:153px;bottom:152px;left:165px}.list_text{width:500px;height:112 px;font-style:normal;font-weight:700;font-size:56px;line-height:56px;letter-spacing:-2.5px;color:#fff}.list_p{position:relative;width:405px;height:100px;font-style:normal;font-weight:400;font-size:15px;line-height:25px;color:#fff;margin-top:40px;margin-bottom:40px;margin-left:100px}.list_p::after{position:absolute;display:inline-block;content:"";left:-265px;bottom:40px;width:203px;height:15px;background-image:url(../img/Path333.png);background-repeat:no-repeat}.list_p::before{position:absolute;display:inline-block;width:447px;height:138px;content:"";left:430px;top:42px;background-image:url(../img/Group8Copy.png);background-repeat:no-repeat;background-position:center center;background-size:contain}.grouppp{display:none}
+.header {
+    width: 1440px;
+    height: 806px;
+    margin: 0 auto;
+    background-color: #fff;
+    border: 1px solid #fff;
+  }
+  .main {
+    width: 1440px;
+    background: #fff;
+    margin: 0 auto;
+    border: 1px solid #fff;
+  }
+  .menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 34px 167px;
+  }
+  .nav_menu {
+    margin-right: 200px;
+  }
+  .menu_title {
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+  }
+  .title_link {
+    font-family: "Space Mono", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 25px;
+    color: #939caa;
+    text-decoration: none;
+    margin-right: 32px;
+  }
+  .title_link:hover {
+    color: #fcb72b;
+  }
+  .button {
+    width: 180px;
+    height: 53px;
+    font-family: "Space Mono", sans-serif;
+    border: none;
+    color: #fff;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 25px;
+    text-align: center;
+    background-color: #fcb72b;
+    color: #fff;
+  }
+  .button:hover {
+    width: 180px;
+    height: 53px;
+    border: 3px solid #fcb72b;
+    color: #fcb72b;
+    background-color: #fff;
+  }
+  .header_img {
+    position: relative;
+    width: 1440px;
+    height: 650px;
+    background-image: url(../img/Bitmap2.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+  .img_list {
+    width: 180px;
+    height: 53px;
+    position: absolute;
+    top: 153px;
+    bottom: 152px;
+    left: 165px;
+  }
+  .list_text {
+    width: 500px;
+    height: 112 px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 56px;
+    letter-spacing: -2.5px;
+    color: #fff;
+  }
+  .list_p {
+    position: relative;
+    width: 405px;
+    height: 100px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    color: #fff;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 100px;
+  }
+  .list_p::after {
+    position: absolute;
+    display: inline-block;
+    content: "";
+    left: -265px;
+    bottom: 40px;
+    width: 203px;
+    height: 15px;
+    background-image: url(../img/Path333.png);
+    background-repeat: no-repeat;
+  }
+  .list_p::before {
+    position: absolute;
+    display: inline-block;
+    width: 447px;
+    height: 138px;
+    content: "";
+    left: 430px;
+    top: 42px;
+    background-image: url(../img/Group8Copy.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+  }
+  .grouppp {
+    display: none;
+  }
+  
 /* HEADER END */
