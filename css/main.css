@@ -108,6 +108,11 @@ svg:hover {
       -ms-flex-pack: justify;
           justify-content: space-between;
   padding: 34px 167px;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 10px;
+  z-index: 100;
+  background-color: white;
 }
 
 .nav_menu {

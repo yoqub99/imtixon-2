@@ -17,6 +17,10 @@
     align-items: center;
     justify-content: space-between;
     padding: 34px 167px;
+    position: sticky;
+    top: 10px;
+    z-index: 100;
+    background-color: rgb(255, 255, 255);
   }
   .nav_menu {
     margin-right: 200px;
